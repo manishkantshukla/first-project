@@ -4,6 +4,7 @@
 {
     'name': 'Sales',
     'version': '1.0',
+    'author': 'Manish',
     'category': 'Sales',
     'sequence': 15,
     'summary': 'Quotations, Sales Orders, Invoicing',
